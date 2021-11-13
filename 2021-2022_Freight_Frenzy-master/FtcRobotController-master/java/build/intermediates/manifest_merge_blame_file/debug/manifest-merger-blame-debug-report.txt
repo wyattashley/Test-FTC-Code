@@ -1,0 +1,8 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.opencv" >
+4
+5    <uses-sdk android:minSdkVersion="1" />
+5-->C:\Users\Wyatt\Documents\FTC\2021-2022_Freight_Frenzy\2021-2022_Freight_Frenzy-master\FtcRobotController-master\java\src\main\AndroidManifest.xml
+6
+7</manifest>

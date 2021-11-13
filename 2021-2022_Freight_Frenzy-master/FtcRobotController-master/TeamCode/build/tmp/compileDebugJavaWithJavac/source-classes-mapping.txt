@@ -1,0 +1,327 @@
+club/towr5291/functions/TOWR5291Tick.java
+ club.towr5291.functions.TOWR5291Tick
+club/towr5291/Concepts/ConceptReadServoPosition.java
+ club.towr5291.Concepts.ConceptReadServoPosition
+club/towr5291/Concepts/ConceptSensorMRGyro.java
+ club.towr5291.Concepts.ConceptSensorMRGyro
+club/towr5291/opmodes/AutoDriveTeam5291UltimateGoal.java
+ club.towr5291.opmodes.AutoDriveTeam5291UltimateGoal
+ club.towr5291.opmodes.AutoDriveTeam5291UltimateGoal$1
+ club.towr5291.opmodes.AutoDriveTeam5291UltimateGoal$2
+club/towr5291/training/BaseOpModeIterative.java
+ club.towr5291.training.BaseOpModeIterative
+club/towr5291/functions/TOWR5291PID.java
+ club.towr5291.functions.TOWR5291PID
+club/towr5291/Concepts/ConceptAutonomousOptions.java
+ club.towr5291.Concepts.ConceptAutonomousOptions
+club/towr5291/libraries/TOWR5291LEDControl.java
+ club.towr5291.libraries.TOWR5291LEDControl
+ club.towr5291.libraries.TOWR5291LEDControl$1
+club/towr5291/sensors/Adafruit_BNO055_Custom.java
+ club.towr5291.sensors.Adafruit_BNO055_Custom
+club/towr5291/astarpathfinder/AStarClosed.java
+ club.towr5291.astarpathfinder.AStarClosed
+club/towr5291/robotconfig/HardwareSensors.java
+ club.towr5291.robotconfig.HardwareSensors
+club/towr5291/opencvutils/OCVUtils.java
+ club.towr5291.opencvutils.OCVUtils
+club/towr5291/Concepts/ConceptLoggingThreaded.java
+ club.towr5291.Concepts.ConceptLoggingThreaded
+ club.towr5291.Concepts.ConceptLoggingThreaded$ConceptLoggingThreadedAsync
+club/towr5291/functions/TOWR5291Toggle.java
+ club.towr5291.functions.TOWR5291Toggle
+club/towr5291/opmodes/Gage/GageAutonEncoder.java
+ club.towr5291.opmodes.Gage.GageAutonEncoder
+club/towr5291/libraries/FTCMenu.java
+ club.towr5291.libraries.FTCMenu
+ club.towr5291.libraries.FTCMenu$MenuButtons
+club/towr5291/Concepts/ConceptRoverRuckusLimitSwitches.java
+ club.towr5291.Concepts.ConceptRoverRuckusLimitSwitches
+club/towr5291/opmodes/BaseDrive_2020.java
+ club.towr5291.opmodes.BaseDrive_2020
+club/towr5291/Concepts/ConceptTOWR5291TickTest.java
+ club.towr5291.Concepts.ConceptTOWR5291TickTest
+club/towr5291/Concepts/ConceptAndroidTextToSpeech.java
+ club.towr5291.Concepts.ConceptAndroidTextToSpeech
+club/towr5291/robotconfig/HardwareArmMotorsFreightFrenzy.java
+ club.towr5291.robotconfig.HardwareArmMotorsFreightFrenzy
+club/towr5291/Concepts/ConceptRobotBasicTests.java
+ club.towr5291.Concepts.ConceptRobotBasicTests
+club/towr5291/functions/BeaconAnalysisOCVAnalyse.java
+ club.towr5291.functions.BeaconAnalysisOCVAnalyse
+club/towr5291/opmodes/BaseDrive_FreightFrenzy.java
+ club.towr5291.opmodes.BaseDrive_FreightFrenzy
+club/towr5291/training/FirstJavaClass.java
+ club.towr5291.training.FirstJavaClass
+club/towr5291/functions/ReadStepFileXML.java
+ club.towr5291.functions.ReadStepFileXML
+club/towr5291/Concepts/ConceptMRIRangeSensorDual.java
+ club.towr5291.Concepts.ConceptMRIRangeSensorDual
+club/towr5291/Concepts/ConceptEYEs.java
+ club.towr5291.Concepts.ConceptEYEs
+club/towr5291/libraries/robotConfigSettings.java
+ club.towr5291.libraries.robotConfigSettings
+ club.towr5291.libraries.robotConfigSettings$Alliance
+ club.towr5291.libraries.robotConfigSettings$robotConfigChoice
+ club.towr5291.libraries.robotConfigSettings$robotConfigStartPos
+ club.towr5291.libraries.robotConfigSettings$robotConfigTeam
+club/towr5291/functions/ReadStepFile.java
+ club.towr5291.functions.ReadStepFile
+club/towr5291/Concepts/ConceptSensorAnalogInput.java
+ club.towr5291.Concepts.ConceptSensorAnalogInput
+club/towr5291/Concepts/ConceptVuforiaOpGrabImageLocation.java
+ club.towr5291.Concepts.ConceptVuforiaOpGrabImageLocation
+club/towr5291/opmodes/BaseDrive_2019.java
+ club.towr5291.opmodes.BaseDrive_2019
+ club.towr5291.opmodes.BaseDrive_2019$1
+club/towr5291/Concepts/ConceptVuforiaGrabImage.java
+ club.towr5291.Concepts.ConceptVuforiaGrabImage
+ club.towr5291.Concepts.ConceptVuforiaGrabImage$1
+ club.towr5291.Concepts.ConceptVuforiaGrabImage$CloseableFrame
+ club.towr5291.Concepts.ConceptVuforiaGrabImage$VuforiaCallbackSubclass
+club/towr5291/Concepts/ConceptCallabrateSkyStoneOCV.java
+ club.towr5291.Concepts.ConceptCallabrateSkyStoneOCV
+club/towr5291/training/FirstRobotConfig.java
+ club.towr5291.training.FirstRobotConfig
+club/towr5291/libraries/LibraryStateSegAutoRoverRuckus.java
+ club.towr5291.libraries.LibraryStateSegAutoRoverRuckus
+club/towr5291/Concepts/ConceptAStarPathFinder2.java
+ club.towr5291.Concepts.ConceptAStarPathFinder2
+club/towr5291/training/WyattOpenCVTraining.java
+ club.towr5291.training.WyattOpenCVTraining
+club/towr5291/Concepts/ConceptMRIRangeSensorDual2.java
+ club.towr5291.Concepts.ConceptMRIRangeSensorDual2
+club/towr5291/opmodes/Gage/EKSSTeleop.java
+ club.towr5291.opmodes.Gage.EKSSTeleop
+club/towr5291/Concepts/ConceptSkyStoneSensors.java
+ club.towr5291.Concepts.ConceptSkyStoneSensors
+club/towr5291/opmodes/Gage/GageHardware.java
+ club.towr5291.Gage.GageHardware
+club/towr5291/libraries/LibraryVuforiaRelicRecovery.java
+ club.towr5291.libraries.LibraryVuforiaRelicRecovery
+club/towr5291/astarpathfinder/AStarOpen.java
+ club.towr5291.astarpathfinder.AStarOpen
+club/towr5291/opmodes/AutoDriveTeam5291SkyStone.java
+ club.towr5291.opmodes.AutoDriveTeam5291SkyStone
+ club.towr5291.opmodes.AutoDriveTeam5291SkyStone$1
+ club.towr5291.opmodes.AutoDriveTeam5291SkyStone$2
+club/towr5291/libraries/TOWR5291EYEControl.java
+ club.towr5291.libraries.TOWR5291EYEControl
+ club.towr5291.libraries.TOWR5291EYEControl$1
+club/towr5291/opmodes/Gage/EKGageAuton.java
+ club.towr5291.opmodes.Gage.EKGageAuton
+club/towr5291/Concepts/ConceptRobotBasicMotorTest.java
+ club.towr5291.Concepts.ConceptRobotBasicMotorTest
+club/towr5291/Concepts/ConceptToggleTest.java
+ club.towr5291.Concepts.ConceptToggleTest
+club/towr5291/functions/UltimateGoalOCV.java
+ club.towr5291.functions.UltimateGoalOCV
+club/towr5291/robotconfig/HardwareArmMotorsRoverRuckus.java
+ club.towr5291.robotconfig.HardwareArmMotorsRoverRuckus
+club/towr5291/libraries/FTCValueMenu.java
+ club.towr5291.libraries.FTCValueMenu
+club/towr5291/opmodes/BaseDriveTemp.java
+ club.towr5291.opmodes.BaseDriveTemp
+club/towr5291/robotconfig/HardwareArmMotorsUltimateGoal.java
+ club.towr5291.robotconfig.HardwareArmMotorsUltimateGoal
+club/towr5291/functions/TOWR5291Utils.java
+ club.towr5291.functions.TOWR5291Utils
+club/towr5291/Concepts/ConceptReadStepFileRelicRecovery.java
+ club.towr5291.Concepts.ConceptReadStepFileRelicRecovery
+club/towr5291/astarpathfinder/AStarValue.java
+ club.towr5291.astarpathfinder.AStarValue
+club/towr5291/robotconfig/HardwarePushbot.java
+ club.towr5291.robotconfig.HardwarePushbot
+club/towr5291/astarpathfinder/AStarGValue.java
+ club.towr5291.astarpathfinder.AStarGValue
+club/towr5291/Concepts/ConceptChangePID.java
+ club.towr5291.Concepts.ConceptChangePID
+club/towr5291/opmodes/RRMecanumTestIan.java
+ club.towr5291.opmodes.RRMecanumTestIan
+ club.towr5291.opmodes.RRMecanumTestIan$MyThread
+ club.towr5291.opmodes.RRMecanumTestIan$handed
+club/towr5291/Concepts/ConceptVuforiaOp.java
+ club.towr5291.Concepts.ConceptVuforiaOp
+club/towr5291/opmodes/AutoDriveTeam5291RoverRuckus.java
+ club.towr5291.opmodes.AutoDriveTeam5291RoverRuckus
+ club.towr5291.opmodes.AutoDriveTeam5291RoverRuckus$1
+ club.towr5291.opmodes.AutoDriveTeam5291RoverRuckus$2
+club/towr5291/Concepts/ConceptMRIRangeSensorLinear.java
+ club.towr5291.Concepts.ConceptMRIRangeSensorLinear
+org/firstinspires/ftc/teamcode/BuildConfig.java
+ org.firstinspires.ftc.teamcode.BuildConfig
+club/towr5291/opmodes/BaseDriveEmma.java
+ club.towr5291.opmodes.BaseDriveEmma
+club/towr5291/robotconfig/HardwareDriveMotors.java
+ club.towr5291.robotconfig.HardwareDriveMotors
+ club.towr5291.robotconfig.HardwareDriveMotors$1
+ club.towr5291.robotconfig.HardwareDriveMotors$HardwareDriveTankMotorSpeeds
+ club.towr5291.robotconfig.HardwareDriveMotors$motorEncoderPositions
+club/towr5291/functions/AStarGetPathEnhanced.java
+ club.towr5291.functions.AStarGetPathEnhanced
+club/towr5291/libraries/LibraryStateSegAutoOld.java
+ club.towr5291.libraries.LibraryStateSegAutoOld
+club/towr5291/opmodes/AutoSetupMenuTest.java
+ club.towr5291.opmodes.AutoSetupMenuTest
+club/towr5291/libraries/LibraryVuforiaRoverRuckus.java
+ club.towr5291.libraries.LibraryVuforiaRoverRuckus
+club/towr5291/opmodes/Gage/PracticeTele.java
+ club.towr5291.opmodes.Gage.PracticeTele
+club/towr5291/astarpathfinder/A0Star.java
+ club.towr5291.astarpathfinder.A0Star
+club/towr5291/opmodes/BaseDriveWorking.java
+ club.towr5291.opmodes.BaseDriveWorking
+ club.towr5291.opmodes.BaseDriveWorking$1
+ club.towr5291.opmodes.BaseDriveWorking$LEDState
+ club.towr5291.opmodes.BaseDriveWorking$SERVOPusherState
+club/towr5291/libraries/LibraryVuforiaSkyStone.java
+ club.towr5291.libraries.LibraryVuforiaSkyStone
+club/towr5291/functions/AStarGetPathVer2.java
+ club.towr5291.functions.AStarGetPathVer2
+club/towr5291/astarpathfinder/AStarFValue.java
+ club.towr5291.astarpathfinder.AStarFValue
+club/towr5291/functions/BeaconAnalysisOCVPlayground.java
+ club.towr5291.functions.BeaconAnalysisOCVPlayground
+club/towr5291/Concepts/ConceptVuforiaNavigationNewTargets.java
+ club.towr5291.Concepts.ConceptVuforiaNavigationNewTargets
+club/towr5291/functions/Constants.java
+ club.towr5291.functions.Constants
+ club.towr5291.functions.Constants$EYEState
+ club.towr5291.functions.Constants$LEDColours
+ club.towr5291.functions.Constants$LEDState
+ club.towr5291.functions.Constants$ObjectColours
+ club.towr5291.functions.Constants$RobotSide
+ club.towr5291.functions.Constants$SharedPreferencesValues
+ club.towr5291.functions.Constants$TOWR5291Servo
+ club.towr5291.functions.Constants$stepState
+club/towr5291/libraries/TOWRDashBoard.java
+ club.towr5291.libraries.TOWRDashBoard
+club/towr5291/robotconfig/HardwareArmMotorsVelocityVortex.java
+ club.towr5291.robotconfig.HardwareArmMotorsVelocityVortex
+club/towr5291/opmodes/Gage/AutonTime.java
+ club.towr5291.Gage.AutonTime
+club/towr5291/Concepts/ConceptAutonTOTeleop.java
+ club.towr5291.Concepts.ConceptAutonTOTeleop
+club/towr5291/opmodes/PushbotTeleopTank_Iterative.java
+ club.towr5291.opmodes.PushbotTeleopTank_Iterative
+club/towr5291/opmodes/AutoSetupMenu.java
+ club.towr5291.opmodes.AutoSetupMenu
+club/towr5291/robotconfig/HardwareArmMotors.java
+ club.towr5291.robotconfig.HardwareArmMotors
+club/towr5291/libraries/robotConfig.java
+ club.towr5291.libraries.robotConfig
+ club.towr5291.libraries.robotConfig$LEDnames
+ club.towr5291.libraries.robotConfig$eyeServos
+ club.towr5291.libraries.robotConfig$motors
+club/towr5291/libraries/LibraryMotorType.java
+ club.towr5291.libraries.LibraryMotorType
+ club.towr5291.libraries.LibraryMotorType$1
+ club.towr5291.libraries.LibraryMotorType$MotorTypes
+club/towr5291/functions/JewelAnalysisOCV.java
+ club.towr5291.functions.JewelAnalysisOCV
+club/towr5291/functions/AStarGetPathBasic.java
+ club.towr5291.functions.AStarGetPathBasic
+club/towr5291/Concepts/ConceptMRIRangeSensor.java
+ club.towr5291.Concepts.ConceptMRIRangeSensor
+club/towr5291/libraries/LibraryVuforiaUltimateGoal.java
+ club.towr5291.libraries.LibraryVuforiaUltimateGoal
+club/towr5291/libraries/LibraryOCVHSVFilter.java
+ club.towr5291.libraries.LibraryOCVHSVFilter
+club/towr5291/Concepts/ConceptSensorBNO055IMU.java
+ club.towr5291.Concepts.ConceptSensorBNO055IMU
+ club.towr5291.Concepts.ConceptSensorBNO055IMU$1
+ club.towr5291.Concepts.ConceptSensorBNO055IMU$2
+ club.towr5291.Concepts.ConceptSensorBNO055IMU$3
+ club.towr5291.Concepts.ConceptSensorBNO055IMU$4
+ club.towr5291.Concepts.ConceptSensorBNO055IMU$5
+ club.towr5291.Concepts.ConceptSensorBNO055IMU$6
+ club.towr5291.Concepts.ConceptSensorBNO055IMU$7
+ club.towr5291.Concepts.ConceptSensorBNO055IMU$8
+club/towr5291/opmodes/AutoDriveTeam5291FreightFrenzy.java
+ club.towr5291.opmodes.AutoDriveTeam5291FreightFrenzy
+ club.towr5291.opmodes.AutoDriveTeam5291FreightFrenzy$1
+ club.towr5291.opmodes.AutoDriveTeam5291FreightFrenzy$2
+club/towr5291/functions/SkyStoneOCV.java
+ club.towr5291.functions.SkyStoneOCV
+club/towr5291/Concepts/ConceptMRIRangeSensorDualThread.java
+ club.towr5291.Concepts.ConceptMRIRangeSensorDualThread
+ club.towr5291.Concepts.ConceptMRIRangeSensorDualThread$1
+ club.towr5291.Concepts.ConceptMRIRangeSensorDualThread$2
+ club.towr5291.Concepts.ConceptMRIRangeSensorDualThread$3
+ club.towr5291.Concepts.ConceptMRIRangeSensorDualThread$4
+club/towr5291/opmodes/BaseDriveIndev.java
+ club.towr5291.opmodes.BaseDriveIndev
+club/towr5291/Concepts/ConceptVuforiaSkystoneWebcamGrabFrame.java
+ club.towr5291.Concepts.ConceptVuforiaSkystoneWebcamGrabFrame
+ club.towr5291.Concepts.ConceptVuforiaSkystoneWebcamGrabFrame$1
+club/towr5291/opmodes/RRMecanumTestIanFanuc.java
+ club.towr5291.opmodes.RRMecanumTestIanFanuc
+ club.towr5291.opmodes.RRMecanumTestIanFanuc$MyThread
+ club.towr5291.opmodes.RRMecanumTestIanFanuc$handed
+club/towr5291/Concepts/ConceptVuforiaOpGrabImage.java
+ club.towr5291.Concepts.ConceptVuforiaOpGrabImage
+ club.towr5291.Concepts.ConceptVuforiaOpGrabImage$1
+club/towr5291/Concepts/ConceptOpenCVImage.java
+ club.towr5291.Concepts.ConceptOpenCVImage
+club/towr5291/astarpathfinder/sixValues.java
+ club.towr5291.astarpathfinder.sixValues
+club/towr5291/libraries/FTCChoiceMenu.java
+ club.towr5291.libraries.FTCChoiceMenu
+ club.towr5291.libraries.FTCChoiceMenu$ChoiceItem
+club/towr5291/Concepts/ConceptTickTestMaxPower.java
+ club.towr5291.Concepts.ConceptTickTestMaxPower
+club/towr5291/robotconfig/HardwareSensorsRoverRuckus.java
+ club.towr5291.robotconfig.HardwareSensorsRoverRuckus
+club/towr5291/robotconfig/HardwareArmMotorsSkyStone.java
+ club.towr5291.robotconfig.HardwareArmMotorsSkyStone
+club/towr5291/Concepts/ConceptReadStepFileRoverRuckus.java
+ club.towr5291.Concepts.ConceptReadStepFileRoverRuckus
+club/towr5291/functions/TOWR5291TextToSpeech.java
+ club.towr5291.functions.TOWR5291TextToSpeech
+club/towr5291/astarpathfinder/AStarHValue.java
+ club.towr5291.astarpathfinder.AStarHValue
+club/towr5291/functions/FileLogger.java
+ club.towr5291.functions.FileLogger
+ club.towr5291.functions.FileLogger$1
+club/towr5291/libraries/ImageCaptureOCV.java
+ club.towr5291.libraries.ImageCaptureOCV
+ club.towr5291.libraries.ImageCaptureOCV$OnImageCapture
+club/towr5291/libraries/LibraryStateSegAuto.java
+ club.towr5291.libraries.LibraryStateSegAuto
+club/towr5291/opmodes/BaseDriveFlicker.java
+ club.towr5291.opmodes.BaseDriveFlicker
+club/towr5291/Concepts/ConceptMRIRangeSensorDualAsync.java
+ club.towr5291.Concepts.ConceptMRIRangeSensorDualAsync
+ club.towr5291.Concepts.ConceptMRIRangeSensorDualAsync$ConceptMRIRangeSensorDualThreadedAsync
+club/towr5291/Concepts/ConceptLogging.java
+ club.towr5291.Concepts.ConceptLogging
+club/towr5291/astarpathfinder/AStarParent.java
+ club.towr5291.astarpathfinder.AStarParent
+club/towr5291/functions/ReadStepFileRoverRuckus.java
+ club.towr5291.functions.ReadStepFileRoverRuckus
+club/towr5291/functions/RoverRuckusOCV.java
+ club.towr5291.functions.RoverRuckusOCV
+club/towr5291/opmodes/OpModeMasterLinear.java
+ club.towr5291.opmodes.OpModeMasterLinear
+ club.towr5291.opmodes.OpModeMasterLinear$1
+club/towr5291/Concepts/ConceptVuforiaRelicRecovery.java
+ club.towr5291.Concepts.ConceptVuforiaRelicRecovery
+club/towr5291/functions/BeaconAnalysisOCV.java
+ club.towr5291.functions.BeaconAnalysisOCV
+club/towr5291/Concepts/ConceptCallabrateOCV.java
+ club.towr5291.Concepts.ConceptCallabrateOCV
+ club.towr5291.Concepts.ConceptCallabrateOCV$1
+club/towr5291/robotconfig/HardwareDriveMotorsBaseConfig.java
+ club.towr5291.robotconfig.HardwareDriveMotorsBaseConfig
+club/towr5291/robotconfig/HardwareSensorsSkyStone.java
+ club.towr5291.robotconfig.HardwareSensorsSkyStone
+club/towr5291/Concepts/ConceptAStarPathFinder.java
+ club.towr5291.Concepts.ConceptAStarPathFinder
+ club.towr5291.Concepts.ConceptAStarPathFinder$1
+ club.towr5291.Concepts.ConceptAStarPathFinder$stepState
+club/towr5291/functions/BeaconAnalysisOCV2.java
+ club.towr5291.functions.BeaconAnalysisOCV2
+club/towr5291/Concepts/ConceptReadStepFileSkyStone.java
+ club.towr5291.Concepts.ConceptReadStepFileSkyStone
+club/towr5291/Concepts/ConceptLEDs.java
+ club.towr5291.Concepts.ConceptLEDs
